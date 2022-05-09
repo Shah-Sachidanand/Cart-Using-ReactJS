@@ -9,24 +9,24 @@ class App extends React.Component {
     this.state = {
         products: [
             {
-                price: 99,
-                title: 'Watch',
+                price: 39805,
+                title: 'Apple Watch Series 7',
                 qty: 1,
-                img: '',
+                img: 'https://www.reliancedigital.in/medias/Apple-Series-7-Smart-Watches-491998516-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNzExNDl8aW1hZ2UvanBlZ3xpbWFnZXMvaGYxL2hkYi85NjQ5NDg1Nzc0ODc4LmpwZ3wwNGY5NWRmYjIyN2VmMDQxNmY3Y2Q4OGRjYmU4YzZmZmYyZjczNTMwZTQyYWM5ZDMyYjNmY2IzMzdkMWUxYjk3',
                 id:1
             },
             {
-                price: 999,
-                title: 'Phone',
-                qty: 10,
-                img: '',
+                price: 20490,
+                title: 'OnePlus Mobile',
+                qty: 1,
+                img: 'https://boip.in/53396-large_default/oneplus-nord-8gb-128gb-good-refurbished.jpg',
                 id:2
             },
             {
-                price: 999,
-                title: 'Laptop',
-                qty: 4,
-                img: '',
+                price: 86990,
+                title: 'Inspiron 15 Laptop',          
+                qty: 1,
+                img: 'https://i.dell.com/is/image/DellContent//content/dam/global-asset-library/Products/Notebooks/Inspiron/15_5510_non-touch/in5510nt_cnb_00055lf110_gy.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=631&qlt=100,0&resMode=sharp2&size=631,402',
                 id:3
             }
         ]

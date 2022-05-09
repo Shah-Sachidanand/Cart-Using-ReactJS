@@ -18,7 +18,7 @@ return(
         <div style={{color: '#777'}}>Rs {price}</div>
         <div style={{color: '#777'}}>Qty {qty}</div>
         <div className="cart-item-actions">
-            {/*Buttons*/}
+        
             <img alt="increase" 
             className="action-icons" 
             src="https://cdn-icons.flaticon.com/png/512/3303/premium/3303893.png?token=exp=1651918211~hmac=b29fe18b5f021e43ce8b863d61cc998a"
