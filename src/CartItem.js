@@ -21,17 +21,17 @@ return(
         
             <img alt="increase" 
             className="action-icons" 
-            src="https://cdn-icons.flaticon.com/png/512/3303/premium/3303893.png?token=exp=1651918211~hmac=b29fe18b5f021e43ce8b863d61cc998a"
+            src="https://as2.ftcdn.net/v2/jpg/01/07/62/07/1000_F_107620769_UwNVSoXnKS4VNcOKoZjPohlEPn83oE38.jpg"
             onClick = {() => onIncreaseQuantity(product)}
         />
             <img alt="decrease" 
             className="action-icons" 
-            src="https://cdn-icons-png.flaticon.com/512/992/992683.png"
+            src="https://as2.ftcdn.net/v2/jpg/01/07/62/09/1000_F_107620985_YEVa8uBObxyKA2DkTSiDL6llE0m0Uzqt.jpg"
             onClick={() => onDecreaseQuantity(product)}
             />
             <img alt="delete"
             className="action-icons" 
-            src="https://cdn-icons.flaticon.com/png/512/484/premium/484662.png?token=exp=1651918038~hmac=b8b3d592d8578e20651a4a0e107ab2de"
+            src="https://cdn-icons.flaticon.com/png/512/3945/premium/3945154.png?token=exp=1652433687~hmac=b5445a1d68f00f240a21bf68eb30d360"
             onClick={() => onDeleteProduct(product.id)}
         />                     
         </div>
